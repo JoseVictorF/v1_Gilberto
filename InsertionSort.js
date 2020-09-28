@@ -52,8 +52,12 @@ function CrescimentoDoArray(){
 	
 }
 
+function iniciar(){
+    CrescimentoDoArray()
+}
 
-CrescimentoDoArray()
+iniciar()
+
 
 
 
